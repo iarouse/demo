@@ -4657,11 +4657,13 @@ body.dark .header-btn a {
   width: 48px;
   text-align: center;
 }
-.preloading-icon .fa-bolt:before {
+.preloading-icon .fa-bolt {
   color: #fff;
   font-size: 30px;
   line-height: 48px;
   -webkit-animation: scaling 0.8s infinite linear;
+  -moz-animation: scaling 0.8s infinite linear;
+  -ms-animation: scaling 0.8s infinite linear;
   -o-animation: scaling 0.8s infinite linear;
   animation: scaling 0.8s infinite linear;
 }
