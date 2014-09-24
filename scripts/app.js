@@ -17,7 +17,7 @@ $products = {
         img         : 'assets/preview600_375-square.png',
         url         : 'http://iarouse.com/dist-square/v1.4/index.html',
         purchase    : 'http://themeforest.net/item/square-responsive-admin-app-with-angularjs/7511722?ref=arousing',
-        responsive  : 1,
+        responsive  : 0,
         tooltip     : ''
     }
 
@@ -27,6 +27,7 @@ $products = {
         img         : 'assets/preview600_375-rainbow.png',
         url         : 'http://iarouse.com/dist-rainbow/v1.3/index.html',
         purchase    : 'http://themeforest.net/item/rainbow-responsive-admin-app-with-angularjs/8060130?ref=arousing',
+        responsive  : 0,
         tooltip     : ''
     }
 
@@ -36,6 +37,7 @@ $products = {
         img         : 'assets/preview600_375-simplify.png',
         url         : 'http://iarouse.com/dist-simplify/v1/index.html',
         purchase    : 'http://themeforest.net/item/simplify-responsive-admin-app-with-angularjs/8514646?ref=arousing',
+        responsive  : 0,
         tooltip     : ''
     }
 
