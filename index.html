@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Switcheroo</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    
+    <script>if ( top !== self ) top.location.replace( self.location.href );// Hey, don't iframe my iframe!</script>
+
+    <link rel="stylesheet" href="bower_components/fontawesome/css/font-awesome.min.css">
+    <link href="styles/styles.css" rel="stylesheet">
+
+    
+    <!--[if lt IE 9]>
+        <script>/*@cc_on'abbr article aside audio canvas details figcaption figure footer header hgroup mark meter nav output progress section summary subline time video'.replace(/\w+/g,function(n){document.createElement(n)})@*/</script>
+    <![endif]-->
+</head>
+    
+<body class="dark">
+
+    <!-- Header -->
+    <header class="switcher-bar clearfix">
+
+        <!-- Logo -->
+        <div class="logo textual pull-left">
+            <a href="#" title="Switcher">
+                Angularjs Admin
+            </a>
+        </div>
+
+        <!-- Product Switcher -->
+        <div class="product-switcher pull-left">
+            <a href="#" title="Select a Product"></a>
+        </div>
+
+        <!-- Bar Remove Button -->
+        <div class="remove-btn header-btn pull-right">
+            <a href="#" title="Close this bar" class="fa fa-times"></a>
+        </div>
+
+        <!-- Purchase Button -->
+        <div class="purchase-btn header-btn pull-right">
+            <a href="#" title="Purchase" class="fa fa-shopping-cart"></a>
+        </div>
+
+        <!-- Mobile Button -->
+        <div class="mobile-btn header-btn pull-right hidden-xs">
+            <a href="#" title="Smartphone View" class="fa fa-mobile-phone"></a>
+        </div>
+
+        <!-- Tablet Button -->
+        <div class="tablet-btn header-btn pull-right hidden-xs">
+            <a href="#" title="Tablet View" class="fa fa-tablet"></a>
+        </div>
+
+        <!-- Desktop Button -->
+        <div class="desktop-btn header-btn pull-right hidden-xs">
+            <a href="#" title="Desktop View" class="fa fa-desktop"></a>
+        </div>
+
+    </header>
+
+    <!-- Products List -->
+    <section class="switcher-body">
+
+        <a href="#" title="Prev" class="fa fa-chevron-left products-prev"></a>
+
+        <div class="products-wrapper">
+            <div class="products-list clearfix">
+
+            </div>
+        </div>
+
+        <a href="#" title="Next" class="fa fa-chevron-right products-next"></a>
+
+    </section>
+
+
+    <!-- Product iframe -->
+    <iframe class="product-iframe" frameborder="0" border="0"></iframe>
+
+    <!-- Preloader -->
+    <div class="preloader"></div>
+    <div class="preloading-icon"><i class="fa fa-bolt"></i></div>
+
+
+    <script src="scripts/app.js"></script>
+    
+</body>
+
+</html>
