@@ -25,7 +25,7 @@ $products = {
         name        : 'Rainbow',
         tag         : 'Admin',
         img         : 'assets/preview600_375-rainbow.png',
-        url         : 'http://iarouse.com/dist-rainbow/v1.3/index.html',
+        url         : 'http://iarouse.com/dist-rainbow/v1.4/index.html',
         purchase    : 'http://themeforest.net/item/rainbow-responsive-admin-app-with-angularjs/8060130?ref=arousing',
         responsive  : 0,
         tooltip     : ''
@@ -35,8 +35,18 @@ $products = {
         name        : 'Simplify',
         tag         : 'Admin',
         img         : 'assets/preview600_375-simplify.png',
-        url         : 'http://iarouse.com/dist-simplify/v1/index.html',
+        url         : 'http://iarouse.com/dist-simplify/v1.1/index.html',
         purchase    : 'http://themeforest.net/item/simplify-responsive-admin-app-with-angularjs/8514646?ref=arousing',
+        responsive  : 0,
+        tooltip     : ''
+    }
+
+,   magic : {
+        name        : 'Magic',
+        tag         : 'Admin',
+        img         : 'assets/preview600_375-magic.png',
+        url         : 'http://iarouse.com/dist-magic/v1/index.html',
+        purchase    : 'http://themeforest.net/item/magic-responsive-bootstrap-admin-with-angula/9460276?ref=arousing',
         responsive  : 0,
         tooltip     : ''
     }
