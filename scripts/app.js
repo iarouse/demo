@@ -45,7 +45,7 @@ $products = {
         name        : 'Magic',
         tag         : 'Admin',
         img         : 'assets/preview600_375-magic.png',
-        url         : 'http://iarouse.com/dist-magic/v1.1.1/index.html',
+        url         : 'http://iarouse.com/dist-magic/v1.2/index.html',
         purchase    : 'http://themeforest.net/item/magic-responsive-bootstrap-admin-with-angula/9460276?ref=arousing',
         responsive  : 0,
         tooltip     : ''
