@@ -15,7 +15,7 @@ $products = {
         name        : 'Square',
         tag         : 'Admin',
         img         : 'assets/preview600_375-square.png',
-        url         : 'http://iarouse.com/dist-square/v1.4/index.html',
+        url         : 'http://iarouse.com/dist-square/v1.5/index.html',
         purchase    : 'http://themeforest.net/item/square-responsive-admin-app-with-angularjs/7511722?ref=arousing',
         responsive  : 0,
         tooltip     : ''
@@ -45,7 +45,7 @@ $products = {
         name        : 'Magic',
         tag         : 'Admin',
         img         : 'assets/preview600_375-magic.png',
-        url         : 'http://iarouse.com/dist-magic/v1/index.html',
+        url         : 'http://iarouse.com/dist-magic/v1.1.1/index.html',
         purchase    : 'http://themeforest.net/item/magic-responsive-bootstrap-admin-with-angula/9460276?ref=arousing',
         responsive  : 0,
         tooltip     : ''
