@@ -4548,6 +4548,12 @@ body.dark .header-btn a {
   width: 60px;
   z-index: 999;
 }
+.products-prev:hover, .products-prev:active, .products-prev:focus,
+.products-next:hover,
+.products-next:active,
+.products-next:focus {
+  text-decoration: none;
+}
 
 .products-next {
   left: auto;
