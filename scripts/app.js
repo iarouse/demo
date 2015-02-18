@@ -35,7 +35,7 @@ $products = {
         name        : 'Simplify',
         tag         : 'Admin',
         img         : 'assets/preview600_375-simplify.png',
-        url         : 'http://iarouse.com/dist-simplify/v1.2/index.html',
+        url         : 'http://iarouse.com/dist-simplify/v1.3/index.html',
         purchase    : 'http://themeforest.net/item/simplify-responsive-admin-app-with-angularjs/8514646?ref=arousing',
         responsive  : 0,
         tooltip     : ''
